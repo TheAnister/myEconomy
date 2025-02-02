@@ -1,6 +1,9 @@
 # myEconomy
 The myEconomy Game
 
+# Sister Project
+Checkout the [myEconomy's sister project](https://github.com/TheAnister/myEconomyGUI): a more less economic simulator with a graphical user interface
+
 # Welcome to the myEconomy Project!
 The myEconomy Project is a game that simulates a nation, with a great focus on its economy. Right now there are countless features, such as a complex tax system, a spending department, different GDP sectors, the ability to change your interest rate and detailed statistics, with much more features planned in the near future!
 
@@ -34,3 +37,6 @@ Save files are currently saved in the folder that the python file is located - a
 
 # Official site
 ## [JaskaranPython](https://jaskaranpython.glitch.me/myEconomy)
+
+# myEconomy vs myEconomyGUI
+myEconomy is a more complex economic simulator compared to myEconomyGUI, such as having boom/bust cycles, different economic sectors, etc. However, it uses a command-line interface. To ensure that myEconomy is more up-to-date, we have created myEconomyGUI - a less complex version of myEconomy with the base features and a modern GUI with buttons, text fields and sliders.
