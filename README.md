@@ -2,7 +2,7 @@
 The myEconomy Game
 
 # Sister Project
-Checkout the [myEconomy's sister project](https://github.com/TheAnister/myEconomyGUI): a more less economic simulator with a graphical user interface
+Checkout the [myEconomy's sister project](https://github.com/TheAnister/myEconomyGUI): a less complex economic simulator with a graphical user interface
 
 # Welcome to the myEconomy Project!
 The myEconomy Project is a game that simulates a nation, with a great focus on its economy. Right now there are countless features, such as a complex tax system, a spending department, different GDP sectors, the ability to change your interest rate and detailed statistics, with much more features planned in the near future!
