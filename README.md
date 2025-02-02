@@ -33,10 +33,12 @@ Save files are currently saved in the folder that the python file is located - a
 - Popularity
 - Number of companies
 - GDP sectors
-- **Much, much, much more planned!**
 
 # Official site
 ## [JaskaranPython](https://jaskaranpython.glitch.me/myEconomy)
 
 # myEconomy vs myEconomyGUI
 myEconomy is a more complex economic simulator compared to myEconomyGUI, such as having boom/bust cycles, different economic sectors, etc. However, it uses a command-line interface. To ensure that myEconomy is more up-to-date, we have created myEconomyGUI - a less complex version of myEconomy with the base features and a modern GUI with buttons, text fields and sliders.
+
+# End Of Life
+The myEconomy Project has reached its EoL. For a more updated version, please use [myEconomyGUI](https://github.com/TheAnister/myEconomyGUI).
